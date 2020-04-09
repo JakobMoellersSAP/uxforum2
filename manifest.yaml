@@ -1,0 +1,4 @@
+applications: 
+- name: openui5-sample-app
+  path: webapp
+  buildpack: staticfile_buildpack 
